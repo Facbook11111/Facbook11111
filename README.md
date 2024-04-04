@@ -9,5 +9,7 @@
     <br>
     <h3>Currently working on: <a href="#" title="Codename">"Fuhuo" (Foo-who)</a></h3>
      <h6><i>"i am the awesome facbook"</i></h6>
+    <br>
+    <img src="transgenderflag.png" alt="Transgender flag">
   </body>
 </html>
